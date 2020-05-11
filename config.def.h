@@ -3,7 +3,7 @@
  * Use "cat -v" to figure out favorite key combination.
  *
  * lines is the number of lines scrolled up or down.
- * If lines is negative, its the fraction of the terminal size.
+ * If lines is negative, it's the fraction of the terminal size.
  */
 
 struct rule rules[] = {
